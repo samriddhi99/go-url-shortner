@@ -3,7 +3,7 @@ package main
 import (
     "fmt"
     "net/http"
-    "go-url-shortener/shortener"
+    "github.com/samriddhi99/go-url-shortener/shortener"
 )
 
 func main() {
