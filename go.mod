@@ -1,3 +1,3 @@
-module go-url-shortener
+module go-url-shortner
 
 go 1.18
